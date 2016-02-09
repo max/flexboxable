@@ -1,0 +1,6 @@
+{
+  "name": "flexboxible",
+  "version": "1.0.0",
+  "description": "Simple flexbox CSS utilities",
+  "main": "index.css"
+}
